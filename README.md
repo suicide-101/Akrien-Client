@@ -21,7 +21,7 @@
 ## 🛠️ How to Use
 
 1. Use Forge 1.8.9 or external launcher  
-2. Drop `AkrienClient.jar` into mods folder  
+2. Run `Loader.exe`  
 3. Use `RShift` for toggles
 
 ---
